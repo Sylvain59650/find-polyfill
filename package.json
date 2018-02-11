@@ -1,0 +1,31 @@
+{
+  "name": "find-polyfill",
+  "version": "0.9.0",
+  "description": "Implements the find method for Array if not already implemented",
+  "main": "distrib/find-polyfill.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sylvain59650/find-polyfill.git"
+  },
+  "keywords": [
+    "Array",
+    "find",
+    "IE",
+    "Internet",
+    "Explorer"
+  ],
+  "author": "Sylvain Longepée",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sylvain59650/find-polyfill/issues"
+  },
+  "homepage": "https://github.com/Sylvain59650/find-polyfill#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify": "^3.0.0"
+  }
+}
