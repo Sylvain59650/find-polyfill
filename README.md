@@ -8,6 +8,9 @@ No need for Nodejs, Chrome & Firefox
 
 Don't no about others browsers.
 
+## References the script
+
+    <script src="node_modules/find-polyfill/distrib/find-polyfill.min.js"></script>
 ## Example
 
     var arr=[0,1,2,3,4,5,6];
